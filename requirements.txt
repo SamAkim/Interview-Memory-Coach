@@ -1,0 +1,9 @@
+groq
+cognee
+fastembed
+streamlit
+PyMuPDF
+pyvis
+python-dotenv
+pandas
+pyttsx3
